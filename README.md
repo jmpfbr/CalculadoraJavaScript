@@ -47,7 +47,9 @@ CalculadoraJavaScript/
 
 ⚙️ Como Executar
 
-Não é necessário instalar nada! Para testar a calculadora:
+Não é necessário instalar nada! 
+
+Para testar a calculadora:
 
 Clone o repositório ou baixe os arquivos.
 
